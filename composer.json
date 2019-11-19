@@ -1,0 +1,11 @@
+{
+    "name": "vendor/healing-touch-hospital",
+    "description": "Description of project healing-touch-hospital.",
+    "authors": [
+        {
+            "name": "indresh",
+            "email": "indresh.singh@evontech.com"
+        }
+    ],
+    "require": {}
+}

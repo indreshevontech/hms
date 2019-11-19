@@ -1,0 +1,11 @@
+E:\xampp\htdocs\wordpress\wp-content\plugins\booking365\admin\templates\msbdt-service.php
+
+E:\xampp\htdocs\wordpress\wp-content\plugins\booking365\admin\templates\msbdt-appointment.php
+
+E:\xampp\htdocs\wordpress\wp-content\plugins\booking365\admin\query\msbdt-professional-query.php
+
+E:\xampp\htdocs\wordpress\wp-content\plugins\booking365\admin\query\msbdt-time-slote-query.php
+
+E:\xampp\htdocs\wordpress\wp-content\plugins\booking365\admin\templates\msbdt-time-slote.php
+
+E:\xampp\htdocs\wordpress\wp-content\plugins\booking365\admin\css\msbdt-mdp.css

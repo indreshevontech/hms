@@ -1,0 +1,951 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-03-04 02:58+0600\n"
+"PO-Revision-Date: 2018-03-04 02:13+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__;esc_html_e;esc_attr_e;_x;"
+"_n;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/cp.php:11
+msgid "Tours"
+msgstr ""
+
+#: inc/cp.php:12
+msgid "Tour"
+msgstr ""
+
+#: inc/cp.php:13
+msgid "All Tours"
+msgstr ""
+
+#: inc/cp.php:14
+msgid "Add New Tour"
+msgstr ""
+
+#: inc/cp.php:15
+msgid "Add Tour"
+msgstr ""
+
+#: inc/cp.php:34 inc/cp.php:207
+msgid "Category"
+msgstr ""
+
+#: inc/cp.php:43 inc/cp.php:128
+msgid "Duration"
+msgstr ""
+
+#: inc/cp.php:52 inc/cp.php:137
+msgid "Facility"
+msgstr ""
+
+#: inc/cp.php:61 inc/cp.php:146
+msgid "People"
+msgstr ""
+
+#: inc/cp.php:70
+msgid "Guest"
+msgstr ""
+
+#: inc/cp.php:79 inc/cp.php:155
+msgid "Child"
+msgstr ""
+
+#: inc/cp.php:88 inc/cp.php:164
+msgid "Room"
+msgstr ""
+
+#: inc/cp.php:98
+msgid "Hotel"
+msgstr ""
+
+#: inc/cp.php:99 inc/cp.php:100
+msgid "Add Hotel"
+msgstr ""
+
+#: inc/cp.php:119 inc/cp.php:239 widgets/categories.php:34
+msgid "Categories"
+msgstr ""
+
+#: inc/cp.php:174
+msgid "Destinations"
+msgstr ""
+
+#: inc/cp.php:175 inc/cp.php:176
+msgid "Add Destination"
+msgstr ""
+
+#: inc/cp.php:195
+msgid "Locations"
+msgstr ""
+
+#: inc/cp.php:196
+msgid "Location"
+msgstr ""
+
+#: inc/cp.php:197
+msgid "Add New Location"
+msgstr ""
+
+#: inc/cp.php:206
+msgid "Destination Category"
+msgstr ""
+
+#: inc/cp.php:208
+msgid "Add New Category"
+msgstr ""
+
+#: inc/cp.php:218 shortcodes/gallery.php:138
+msgid "Gallery"
+msgstr ""
+
+#: inc/cp.php:219
+msgid "Add Gallery Item"
+msgstr ""
+
+#: inc/cp.php:220
+msgid "Add Item"
+msgstr ""
+
+#: inc/extra.php:56
+msgid "Only"
+msgstr ""
+
+#: inc/vc-custom-radio/param/class-vc-custom-radio.php:52
+msgid "Yes"
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:9
+msgid "Tour Package Data"
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:15 metaboxes/cmb2_metaboxes.php:54
+msgid "Price"
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:16
+msgid "Enter here the tour package price."
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:22 metaboxes/cmb2_metaboxes.php:61
+msgid "Date from"
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:23 metaboxes/cmb2_metaboxes.php:62
+msgid "Insert the start date package (REQUIRED FIELD FOR ADVANCED SEARCH)."
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:28 metaboxes/cmb2_metaboxes.php:67
+msgid "Date to"
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:29 metaboxes/cmb2_metaboxes.php:68
+msgid "Insert the end date package."
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:34
+msgid "From where?"
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:35
+msgid ""
+"Enter here the place name from where the tour start. Need this field for "
+"advanced search."
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:40 shortcodes/destination.php:217
+msgid "Destination"
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:41
+msgid ""
+"Input here the place name where the tour destination is? Need this field for "
+"advanced search."
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:48
+msgid "Hotel Package Data"
+msgstr ""
+
+#: metaboxes/cmb2_metaboxes.php:55
+msgid "Enter here the package price."
+msgstr ""
+
+#: metaboxes/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: metaboxes/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: metaboxes/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: metaboxes/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: metaboxes/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: metaboxes/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: metaboxes/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: metaboxes/includes/CMB2_Field.php:978 metaboxes/includes/CMB2_Field.php:982
+msgid "None"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:86 metaboxes/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:109
+msgid "mm/dd/yy"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:115 shortcodes/destination.php:131
+#: shortcodes/tour.php:135
+msgid "Next"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:118 metaboxes/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:129
+msgid "hh:mm TT"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:137 metaboxes/includes/CMB2_Types.php:1004
+msgid "Remove Image"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:138 metaboxes/includes/CMB2_Types.php:357
+#: metaboxes/includes/CMB2_Types.php:1023
+msgid "Remove"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:139 metaboxes/includes/CMB2_Types.php:1018
+msgid "File:"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:140 metaboxes/includes/CMB2_Types.php:1021
+msgid "Download"
+msgstr ""
+
+#: metaboxes/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: metaboxes/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: metaboxes/includes/CMB2_Types.php:749 metaboxes/includes/CMB2_Types.php:797
+msgid "No terms"
+msgstr ""
+
+#: metaboxes/includes/CMB2_Types.php:864
+msgid "Add or Upload Files"
+msgstr ""
+
+#: metaboxes/includes/CMB2_Types.php:926
+msgid "Add or Upload File"
+msgstr ""
+
+#: metaboxes/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: shortcodes/c2a.php:37
+msgid "Call to Action"
+msgstr ""
+
+#: shortcodes/c2a.php:38
+msgid "With background image, featured image and text contents."
+msgstr ""
+
+#: shortcodes/c2a.php:40 shortcodes/destination.php:220
+#: shortcodes/fun_fact.php:108 shortcodes/gallery.php:141
+#: shortcodes/hotels.php:300 shortcodes/info_box.php:116
+#: shortcodes/logos.php:42 shortcodes/posts_carousel.php:53
+#: shortcodes/single_destination.php:47 shortcodes/slider.php:109
+#: shortcodes/slider.php:195 shortcodes/team-member.php:50
+#: shortcodes/title.php:76 shortcodes/tour.php:218 shortcodes/video.php:35
+#: shortcodes/widgets.php:24
+msgid "Hospital"
+msgstr ""
+
+#: shortcodes/c2a.php:44 shortcodes/slider.php:129 shortcodes/slider.php:223
+msgid "Background image"
+msgstr ""
+
+#: shortcodes/c2a.php:49
+msgid "Featured image"
+msgstr ""
+
+#: shortcodes/c2a.php:50
+msgid "The featured image will be right aligned"
+msgstr ""
+
+#: shortcodes/c2a.php:55 shortcodes/title.php:105
+msgid "Contents"
+msgstr ""
+
+#: shortcodes/destination.php:130 shortcodes/tour.php:134
+msgid "Previous"
+msgstr ""
+
+#: shortcodes/destination.php:132 shortcodes/tour.php:136
+msgid " "
+msgstr ""
+
+#: shortcodes/destination.php:218
+msgid "Show the destinations in different styles."
+msgstr ""
+
+#: shortcodes/destination.php:224 shortcodes/fun_fact.php:112
+#: shortcodes/gallery.php:151 shortcodes/hotels.php:304
+#: shortcodes/image_slider.php:101 shortcodes/info_box.php:132
+#: shortcodes/tour.php:222
+msgid "Style"
+msgstr ""
+
+#: shortcodes/destination.php:236 shortcodes/hotels.php:317
+#: shortcodes/info_box.php:120 shortcodes/title.php:73 shortcodes/title.php:91
+msgid "Title"
+msgstr ""
+
+#: shortcodes/destination.php:237 shortcodes/hotels.php:318
+msgid ""
+"You can use here any heading text (heading one, heading two etc) with "
+"subtitle (paragraph text)."
+msgstr ""
+
+#: shortcodes/destination.php:249 shortcodes/tour.php:233
+msgid "Order By"
+msgstr ""
+
+#: shortcodes/destination.php:262 shortcodes/hotels.php:336
+#: shortcodes/tour.php:246
+msgid "Show post count"
+msgstr ""
+
+#: shortcodes/destination.php:263 shortcodes/hotels.php:337
+#: shortcodes/tour.php:247
+msgid "The number of posts per page to show."
+msgstr ""
+
+#: shortcodes/destination.php:269 shortcodes/hotels.php:330
+msgid "Category filter"
+msgstr ""
+
+#: shortcodes/destination.php:270 shortcodes/hotels.php:331
+msgid "Enter the category slug to filter posts."
+msgstr ""
+
+#: shortcodes/fun_fact.php:105
+msgid "Fun fact"
+msgstr ""
+
+#: shortcodes/fun_fact.php:106
+msgid "Display fun fact count with icon."
+msgstr ""
+
+#: shortcodes/fun_fact.php:122
+msgid "Section background image"
+msgstr ""
+
+#: shortcodes/fun_fact.php:127
+msgid "Overlay color"
+msgstr ""
+
+#: shortcodes/fun_fact.php:134 shortcodes/list_with_icon.php:41
+#: shortcodes/nav.php:50
+msgid "Menu Items"
+msgstr ""
+
+#: shortcodes/fun_fact.php:140 shortcodes/info_box.php:146
+#: shortcodes/list_with_icon.php:53 shortcodes/title.php:114
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/fun_fact.php:146
+msgid "Fun count value"
+msgstr ""
+
+#: shortcodes/fun_fact.php:152
+msgid "Fun label"
+msgstr ""
+
+#: shortcodes/gallery.php:139
+msgid "Display Destination gallery."
+msgstr ""
+
+#: shortcodes/gallery.php:145
+msgid "Show gallery items"
+msgstr ""
+
+#: shortcodes/hotels.php:75
+msgid "from"
+msgstr ""
+
+#: shortcodes/hotels.php:297
+msgid "Hotels"
+msgstr ""
+
+#: shortcodes/hotels.php:298
+msgid "Display Hotel list"
+msgstr ""
+
+#: shortcodes/hotels.php:343 shortcodes/tour.php:253
+msgid "Read more button label"
+msgstr ""
+
+#: shortcodes/image_slider.php:94
+msgid "Image Slider"
+msgstr ""
+
+#: shortcodes/image_slider.php:95
+msgid "Create image slider."
+msgstr ""
+
+#: shortcodes/image_slider.php:112
+msgid "Images"
+msgstr ""
+
+#: shortcodes/info_box.php:113
+msgid "Info box"
+msgstr ""
+
+#: shortcodes/info_box.php:114
+msgid "Display info with icon or image"
+msgstr ""
+
+#: shortcodes/info_box.php:127
+msgid "Content"
+msgstr ""
+
+#: shortcodes/info_box.php:156 shortcodes/logos.php:47
+msgid "Image"
+msgstr ""
+
+#: shortcodes/list_with_icon.php:32
+msgid "List with icon"
+msgstr ""
+
+#: shortcodes/list_with_icon.php:33
+msgid "Create list with icon."
+msgstr ""
+
+#: shortcodes/list_with_icon.php:47
+msgid "List item label"
+msgstr ""
+
+#: shortcodes/logos.php:39
+msgid "Logos"
+msgstr ""
+
+#: shortcodes/logos.php:40
+msgid "Show your client logos"
+msgstr ""
+
+#: shortcodes/nav.php:41
+msgid "Navigation menu"
+msgstr ""
+
+#: shortcodes/nav.php:42
+msgid "Create navigation menu items with link"
+msgstr ""
+
+#: shortcodes/nav.php:56
+msgid "Menu item label"
+msgstr ""
+
+#: shortcodes/nav.php:62
+msgid "Menu item link"
+msgstr ""
+
+#: shortcodes/posts_carousel.php:50
+msgid "Posts Carousel"
+msgstr ""
+
+#: shortcodes/posts_carousel.php:51
+msgid "Display your blog posts as carousel."
+msgstr ""
+
+#: shortcodes/posts_carousel.php:57
+msgid "Posts show"
+msgstr ""
+
+#: shortcodes/single_destination.php:44
+msgid "Single destination"
+msgstr ""
+
+#: shortcodes/single_destination.php:45
+msgid "Display a single destination in any column of VC"
+msgstr ""
+
+#: shortcodes/single_destination.php:51
+msgid "Select the destination"
+msgstr ""
+
+#: shortcodes/single_destination.php:57
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/slider.php:107
+msgid "Slider with search"
+msgstr ""
+
+#: shortcodes/slider.php:108
+msgid "Slider with advanced search form."
+msgstr ""
+
+#: shortcodes/slider.php:118 shortcodes/slider.php:201
+msgid "Slider style"
+msgstr ""
+
+#: shortcodes/slider.php:119
+msgid "Select a slider style from the dropdown"
+msgstr ""
+
+#: shortcodes/slider.php:138
+msgid "Include Search Form?"
+msgstr ""
+
+#: shortcodes/slider.php:147
+msgid "\"Date to\" field title"
+msgstr ""
+
+#: shortcodes/slider.php:153
+msgid "\"Date from\" field title"
+msgstr ""
+
+#: shortcodes/slider.php:159
+msgid "Room field title"
+msgstr ""
+
+#: shortcodes/slider.php:165
+msgid "People field title"
+msgstr ""
+
+#: shortcodes/slider.php:171
+msgid "Child field title"
+msgstr ""
+
+#: shortcodes/slider.php:177
+msgid "Duration field title"
+msgstr ""
+
+#: shortcodes/slider.php:183
+msgid "Submit button label"
+msgstr ""
+
+#: shortcodes/slider.php:193
+msgid "Slider Item"
+msgstr ""
+
+#: shortcodes/slider.php:202
+msgid "Select the slider style that you selected previous."
+msgstr ""
+
+#: shortcodes/slider.php:212
+msgid "Slider Headline"
+msgstr ""
+
+#: shortcodes/slider.php:232
+msgid "Title text"
+msgstr ""
+
+#: shortcodes/slider.php:239 shortcodes/title.php:98
+msgid "Subtitle"
+msgstr ""
+
+#: shortcodes/slider.php:245
+msgid "Button"
+msgstr ""
+
+#: shortcodes/team-member.php:47
+msgid "Team Member"
+msgstr ""
+
+#: shortcodes/team-member.php:48
+msgid "Display team member description."
+msgstr ""
+
+#: shortcodes/team-member.php:59
+msgid "Name"
+msgstr ""
+
+#: shortcodes/team-member.php:66
+msgid "Designation"
+msgstr ""
+
+#: shortcodes/team-member.php:73
+msgid "Social Accounts"
+msgstr ""
+
+#: shortcodes/team-member.php:79
+msgid "Social account URL"
+msgstr ""
+
+#: shortcodes/team-member.php:83
+msgid "Social icon"
+msgstr ""
+
+#: shortcodes/team-member.php:84
+msgid "Select icon from the library."
+msgstr ""
+
+#: shortcodes/title.php:74
+msgid "Display title with description."
+msgstr ""
+
+#: shortcodes/title.php:80
+msgid "Title Style"
+msgstr ""
+
+#: shortcodes/title.php:128
+msgid "Heading font color"
+msgstr ""
+
+#: shortcodes/title.php:134
+msgid "Subtitle font color"
+msgstr ""
+
+#: shortcodes/tour.php:33 shortcodes/tour.php:93
+msgid "Popular"
+msgstr ""
+
+#: shortcodes/tour.php:215
+msgid "Tours Posts"
+msgstr ""
+
+#: shortcodes/tour.php:216
+msgid "Show Tour posts in front page or tour page"
+msgstr ""
+
+#: shortcodes/video.php:32
+msgid "Single Video"
+msgstr ""
+
+#: shortcodes/video.php:33
+msgid "Display your video with a preview image."
+msgstr ""
+
+#: shortcodes/video.php:39
+msgid "Preview image"
+msgstr ""
+
+#: shortcodes/video.php:44
+msgid "Video URL"
+msgstr ""
+
+#: shortcodes/widgets.php:21
+msgid "Widgets Shortcode"
+msgstr ""
+
+#: shortcodes/widgets.php:22
+msgid "Display widget with shortcode."
+msgstr ""
+
+#: widgets/categories.php:14
+msgid "A list or dropdown of categories."
+msgstr ""
+
+#: widgets/categories.php:17
+msgid "(Theme) Categories"
+msgstr ""
+
+#: widgets/categories.php:59
+msgid "Select Category"
+msgstr ""
+
+#: widgets/categories.php:93
+msgid "All"
+msgstr ""
+
+#: widgets/categories.php:157 widgets/instagram/instagram-widget.php:143
+#: widgets/twitter/twitter-slider-widget.php:128
+msgid "Title:"
+msgstr ""
+
+#: widgets/categories.php:161
+msgid "Show post counts"
+msgstr ""
+
+#: widgets/categories.php:164
+msgid "Show hierarchy"
+msgstr ""
+
+#: widgets/instagram/instagram-settings.php:21
+#: widgets/twitter/twitter-widget-settings.php:12
+msgid "Settings"
+msgstr ""
+
+#: widgets/instagram/instagram-settings.php:55
+msgid "Access Token"
+msgstr ""
+
+#: widgets/instagram/instagram-settings.php:70
+#, php-format
+msgid ""
+"Access Token is used as key to access your photos from Instagram so they can "
+"be displayed. You can also get it manually from <a href=\"%1$s\">here</a>."
+msgstr ""
+
+#: widgets/instagram/instagram-settings.php:87
+msgid "Instagram Widget by Financo"
+msgstr ""
+
+#: widgets/instagram/instagram-settings.php:94
+msgid ""
+"Due to recent Instagram API changes it is no longer possible to display "
+"photos from a different Instagram account then yours. The widget will "
+"automatically display the latest photos of the account which was authorized "
+"on this page."
+msgstr ""
+
+#: widgets/instagram/instagram-settings.php:101
+msgid "Connect with Instagram"
+msgstr ""
+
+#: widgets/instagram/instagram-settings.php:103
+msgid "Re-connect with Instagram"
+msgstr ""
+
+#: widgets/instagram/instagram-settings.php:136
+msgid ""
+"Instagram Widget is already connected to Instagram. Do you want to connect "
+"again?"
+msgstr ""
+
+#: widgets/instagram/instagram-settings.php:148
+msgid ""
+"Provided access token is has been rejected by Instagram Api. Please check "
+"your input data."
+msgstr ""
+
+#: widgets/instagram/instagram-shortcode.php:20
+msgid ""
+"Instagram mis-configured, check the instagram api (Settings > Instagram) and "
+"instagram settings (Appearance > Theme Settings)."
+msgstr ""
+
+#: widgets/instagram/instagram-widget.php:17
+msgid "(Positive) Instagram"
+msgstr ""
+
+#: widgets/instagram/instagram-widget.php:20
+msgid "Displays a user's Instagram photos."
+msgstr ""
+
+#: widgets/instagram/instagram-widget.php:25
+msgid "Instagram"
+msgstr ""
+
+#: widgets/instagram/instagram-widget.php:135
+#, php-format
+msgid ""
+"You need to configure <a href=\"%1$s\">plugin settings</a> before using this "
+"widget."
+msgstr ""
+
+#: widgets/instagram/instagram-widget.php:149
+msgid "Number of Images Shown:"
+msgstr ""
+
+#: widgets/instagram/instagram-widget.php:157
+msgid ""
+"Fields above do not influence directly widget appearance. Final number of "
+"images per row and image width is calculated depending on browser "
+"resolution. This ensures your photos look beautiful on all devices."
+msgstr ""
+
+#: widgets/instagram/instagram-widget.php:165
+msgid " Display View on Instagram button"
+msgstr ""
+
+#: widgets/instagram/instagram-widget.php:170
+msgid " Center View on Instagram button"
+msgstr ""
+
+#: widgets/instagram/instagram-widget.php:218
+msgid "Instagram Widget misconfigured, check plugin &amp; widget settings."
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:22
+msgid "(Positive) Twits slider"
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:25
+msgid "Displays twits as slider."
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:30
+msgid "Twitter Feed"
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:133
+msgid "Twitter Username:"
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:138
+msgid "# of Tweets Shown:"
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:144
+msgid "Show Timestamp"
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:149
+msgid " Display Follow me button"
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:154
+msgid " Show follower count? "
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:193
+msgid "Follow &commat;"
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:215
+msgid "Twitter Widget: Non-existent username."
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:219
+#, php-format
+msgid ""
+"Twitter Widget misconfigured, check <a href=\"%1$s\" target=\"_blank"
+"\">settings page</a> and <a href=\"%2$s\" target=\"_blank\">read "
+"instructions</a>. Error code: %3$s."
+msgstr ""
+
+#: widgets/twitter/twitter-slider-widget.php:300
+#, php-format
+msgid "%1$s ago"
+msgstr ""
+
+#: widgets/twitter/twitter-widget-settings.php:23
+#: widgets/twitter/twitter-widget-settings.php:49
+msgid "Twitter Widget by Financo"
+msgstr ""
+
+#: widgets/twitter/twitter-widget-settings.php:24
+msgid "Twitter Widget"
+msgstr ""
+
+#: widgets/twitter/twitter-widget-settings.php:57
+#, php-format
+msgid ""
+"Bad Authentification Data. Please <a href=\"%1$s\" target=\"_blank\">read "
+"instructions</a> and provide correct credentials."
+msgstr ""
+
+#: widgets/twitter/twitter-widget-settings.php:67
+msgid ""
+"Display your most recent thoughts from twitter. First you need to setup API "
+"keys in order for widget to be able to display your tweets."
+msgstr ""
+
+#: widgets/twitter/twitter-widget-settings.php:73
+#, php-format
+msgid ""
+"Navigate to documentation page and <a href=\"%1$s\" target=\"_blank\">read "
+"instructions</a>."
+msgstr ""
