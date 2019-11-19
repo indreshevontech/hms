@@ -79,6 +79,8 @@ $table_prefix = 'hth_';
  */
 define( 'WP_DEBUG', false );
 define( 'FS_METHOD', 'direct');
+define( 'WPMS_ON', true );
+define( 'WPMS_SMTP_PASS', 'your_password' );
 
 /* That's all, stop editing! Happy publishing. */
 
